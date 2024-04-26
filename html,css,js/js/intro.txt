@@ -1,0 +1,13 @@
+Jvascript is called the language of web. it is the programming language for web development.
+js is used for factioning of the website.
+ js is actually 
+ for internal  js==> you can write js inside script tag.
+
+there are some pre defined methods for numbers
+1.var num=25.369;
+num.tofixed(2)--> it will round figure numbers into 2 decimal.
+2.var num=26.3698;
+num.toprecision(3)--> it wiil round figure NUMBERS INTO 3 digits 
+
+
+

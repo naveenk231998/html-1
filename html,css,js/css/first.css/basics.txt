@@ -1,0 +1,12 @@
+css : cascading style sheet. these are used to include styling / desingning into web ppages.
+there are threee ways ti archives css
+1.inline:inline css means in the line of html element, style wil aplied as a attribute 
+<h1> style ="color:red">somthing<h1>
+2.internal: internal styling means apply style as element
+<style>
+selector{
+    proporty-name:value;
+
+}
+</style>
+/*selector can be 

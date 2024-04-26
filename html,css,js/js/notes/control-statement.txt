@@ -1,0 +1,54 @@
+control statement control flow ofn document using some condtions.
+usually they wirten true or false
+
+simple if:
+only if statement will be there if (condtion)
+{
+    //code
+}
+code will be excuted incase condtion fails
+if{
+    //code
+}
+else
+P{
+
+    //code
+}
+code will be excuted only if condtion is true , else code 2 wil be excuted 
+
+if else if 
+you check multiple condtion by if -else if ladder 
+if(condtion)
+code1
+else if(codtion2)
+code2
+else
+code3
+
+if condtion is true code1 wil be excuted if statement else it will be excuted else 
+
+
+
+
+
+
+
+
+
+
+==================================
+switch
+==================================
+switch works in the place of nested if.
+switch contains cases and default. if switch expression mathches any case and that case will be excuted , if it dosent match, then default will be excuted .
+
+every switch statement will have break elase code of next case will also be excute untill program finss break or switch is over.
+
+this error is called 'fall through"
+error
+x=1
+switch(x)
+{
+    case
+}

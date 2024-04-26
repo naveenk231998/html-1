@@ -1,0 +1,56 @@
+body{
+    background-color: antiquewhite;
+}
+.box{
+    margin: 25px 35px 50px 40px;
+    border-width: 2px;
+    border-color: rgb(187, 231, 44);
+    border-style:groove;
+    border-radius:10px ;
+    padding-top:10px ;
+    padding-left: 20px;
+    box-shadow: 5px 5px rgb(182, 213, 194);
+    width: 600px;
+    text-align: right;
+    height: 300px;
+
+    
+
+}
+.box:hover{
+    background-color: rgba(0, 0, 0, 0.285);
+    color:white;
+    overflow: scroll;
+}
+p{
+    margin: 0px;
+    text-align: center;
+    text-shadow: 2px 2px black;
+    
+
+}
+.box2{
+    background-color: blue;
+    box-sizing: border-box;
+    height: 100px;
+    width: 100px ;
+    margin: 50px;
+    border: 2px solid black;
+    border-radius: 20px;
+    padding: 40px 20px;
+}
+.box2:hover{
+    background-color: aqua;
+    color: rgb(206, 200, 194);
+    overflow: scroll;
+}
+a{
+    text-decoration: 2px double;
+    text-decoration-line:underline ;
+    text-decoration-color:green ;
+    text-transform: uppercase;
+    text-overflow: clip;
+}
+img{
+    float: left;
+}

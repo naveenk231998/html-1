@@ -1,0 +1,19 @@
+GML(genralized markuplaguage)-1992-HTML
+www(world wide web)1994-1996 cern - cascading style sheets(css)
+current version of css is css3
+css is used for styling and disigning of the web page.
+css can implimented by three ways
+1.inline css: in the line of an emlement,we can write:"style" as property
+2.internal css: in this css we can write in the <style> elelment
+usually 
+<style>
+ selecter{
+    property:value;
+
+ }
+ </style>
+ 3.external css: we can write in the saperate linked style.css file in the same folder.
+ <link rel="stylesheet"href="style.css>
+ preferences:
+ inline>internal>external
+ !importent can bring 

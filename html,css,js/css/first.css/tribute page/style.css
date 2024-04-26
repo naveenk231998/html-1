@@ -1,0 +1,47 @@
+h6{
+    color:white;
+}
+.main{
+    font-size: 32px;
+    font-weight: bold;
+    text-align: center;
+}
+#box{
+    background-color: rgba(168, 163, 163, 0.84);
+    padding-top: 40px;
+    width: 400px;
+    height: 500px;
+    border:200px ;
+    margin: 50px;
+    text-align: center;
+    font-size: 32px;
+    font-weight: bold;
+    
+}    
+span{
+    color: white;
+    
+}
+button{
+    background-color: rgb(249, 19, 19);color: white;
+            padding: 5px;
+            width: 360px;
+            height: 40px;
+            margin: 10px;
+            text-align: center;
+            font-size: 15px;
+            font-weight: bold;
+        
+}
+input{
+    padding: 5px;
+    width: 350px;
+    height: 20px;
+    margin: 10px;
+
+}
+
+.checkbox{
+    padding-left: 50px;
+}
+    

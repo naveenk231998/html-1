@@ -1,0 +1,14 @@
+loops are iteration statement:
+thay run until the condition fails. each run is one iteration.
+thay are primary two loops 
+exited.
+1. enrty control loop:
+at entry only the condtion will be checked.
+eg: while,for
+
+2. exit contol loop:
+condition will be checkd after excution
+eg:
+do while
+
+while

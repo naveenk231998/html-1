@@ -1,0 +1,6 @@
+disply property:
+disply property is used to diplay elelment in  Container 
+
+display blog will make an elelment or element in container blog
+display: inline ---> make a elelment or element in a container inline
+* inline element cannot 

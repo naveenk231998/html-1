@@ -1,0 +1,28 @@
+body{
+    background-color: aqua;
+    display: flex;
+    padding: 0px;
+    margin: 200px;
+        
+    
+    
+}
+h1{
+    text-transform: uppercase;
+    text-align: center;
+    text-decoration: underline;
+    
+}
+.form control{
+    display: flex;
+    
+    
+}
+input, select,textarea{
+    border-radius: 10px;
+    padding: 5px;
+width: 250px;
+
+
+
+}

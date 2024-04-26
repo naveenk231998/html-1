@@ -1,0 +1,13 @@
+math methos is a default methods used for specific mathemetis operation.
+some of the math emthods are,
+1.math.sqrt(num)--> retuns the squer root of num
+2.math.cbrt(num)--> returns the cubs results of num.
+3.math.pow(x,y)--> returns the power of the num xand y
+4.math.log()--retuns the  
+5.math.exp()
+6.math.ceil()
+7.math.floor(x)
+8.math.round(num)-->will be round figure value of  number
+9.math.random()
+10.math.max() and math.min(x,y)
+11.math.abs(-x)--> will remove the negative and print it.

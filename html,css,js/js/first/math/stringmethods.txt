@@ -1,0 +1,9 @@
+strings are used for alphanumaric.strings can be represented in js by three ways
+1.single quotes-->var s='raj'
+2.double quotes-->vavr s="raj"
+there is no difference between single quotes and double quotes.
+3.template litral-->it takes the values without breaking flow.
+varx=25
+var str=``  the value is ${x}
+methods'
+str.

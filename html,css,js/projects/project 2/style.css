@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(158, 206, 245);
+    font-family:cursive ;
+    border-style: groove;
+    border-color:black ;
+    border-width: 15px;
+    
+}
+img{
+    border-radius: 150px;
+    
+}
+ul:hover{
+    background-color: rgb(210, 221, 221);
+
+}
+p:hover{
+    background-color: rgb(234, 232, 236);
+}
+h1,h2,h3{
+   text-transform: uppercase;
+   text-decoration:underline;
+   color: rgb(165, 42, 128);
+   
+}
+
+.image_container {
+    overflow: hidden;
+    padding-left: 50px;
+}
+.image_container,
+img {
+  width: 300px;
+  height: 350px;
+}

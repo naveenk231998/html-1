@@ -1,0 +1,88 @@
+/*root selecors*/
+*,:root{
+    background-color:white ;
+}
+body{
+    background-color: antiquewhite;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 15px;
+    color: black;
+}
+div{
+    height:50px ;
+    width: 50px;
+    background-color:white;
+    border: 1px solid black;
+}
+.first{
+    background-color: red;
+}
+#box2{
+    background-color: aquamarine;
+}
+div>p /* child selector*/
+{
+    color: red;
+}
+/* div>p means p which direct child of div*/
+/* div p means p which is descendent of div*/
+input[type="text"]
+/*proprty attirbute selecors*/{
+    background-color: green;
+}
+/* chain selectors*/
+#first p,h1,h2{
+    /* p inside first id,h1,h2*/
+}
+/*pseudo classes and pseudo selectors*/
+/*pseudo selectors all pseudo selectors contain : after selecors*/
+
+.first:hover{
+    background-color: yellow;
+}
+input:required{
+    background-color: rgb(192, 38, 38);
+}
+input:optional{
+    background-color: green;
+
+}
+input:read-only{
+    height:100px;
+}
+input:disabled{
+    background-color: aliceblue;
+}
+input:enabled{
+    background-color: rgb(211, 208, 208);
+}
+a{
+color: red;
+}
+a:visited{
+    color: black;
+
+}
+a:active{
+    color: yellow
+
+}
+input:hover{
+background-color: rgb(193, 193, 216);
+}
+input:focus{
+background-color: aliceblue;
+}
+div:emty{
+    background-color: aquamarine;
+}
+div:nth-child(1){
+    background-color: rgb(176, 45, 45);
+}
+/*pseudo classes- they come with ::*/
+#para::first-letter{
+    color: rgb(0, 255, 98);
+    font-size: 50px;
+    
+    
+}
