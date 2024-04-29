@@ -1,0 +1,46 @@
+:root{
+    --primary:orange;
+
+}
+
+body{
+    box-sizing:border-box;
+    font-family: sans-serif;
+    padding: 0px;
+    margin: 0px;
+    
+
+}
+{
+    background-color: black;
+}
+header img{
+mix-blend-mode: lighten;
+}
+header ul{
+display: flex;
+gap: 10px;
+}
+ul li{
+    list-style-type:none;
+}
+a{
+    text-decoration: none;
+    
+    
+}
+a:hover{
+    color: aqua;
+}
+section{
+    padding:
+}
+
+
+#banner{
+    display: flex;
+
+}
+main  buuton   contact{
+    justify-content: space-between;
+}

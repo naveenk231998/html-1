@@ -1,0 +1,61 @@
+.main{
+    background-color: aquamarine;
+    display:flex;
+    grid-template-columns: repeat(2,auto);
+    gap: 20px;
+    height: 100vh
+    
+
+}
+.box1{
+    
+    position: relative;
+    background-color: red;
+    width: 60px;
+    height: 100px;
+    border-radius: 50%;
+    animation-duration: 3s;
+    animation-timing-function: linear;
+    animation-name: naveen;
+    animation-timing-function: ease-in;
+animation-iteration-count: infinite;
+
+
+   
+    
+    
+
+}
+.box2{
+    position: relative;
+    background-color: rgb(0, 255, 102);
+    height: 100px;
+    width: 60px;
+    border-radius: 50%;
+    animation-duration:3s;
+    animation-name: naveen;
+    animation-timing-function: ease-out;
+    animation-iteration-count: infinite;
+
+}
+
+
+@keyframes naveen{
+0%{
+    
+
+transform: translatey(0);
+opacity: 0;
+10% {
+    opacity: 1;
+}
+
+}
+100%{
+    
+    transform: translateY(var(--transform-y));
+    opacity: 1;
+  
+    
+}
+}

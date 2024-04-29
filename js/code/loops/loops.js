@@ -13,7 +13,7 @@ var a=1;
  }while (b>10)
  /* print odd numbers from  1 to 20 in reverse order*/
 var a=20
-while(a >= 1,3,5,7,9,11,13,15,17,19)
+while(a >=19)
 {
    console.log(a);
    a-=1;
@@ -31,3 +31,5 @@ while(a >= 1,3,5,7,9,11,13,15,17,19)
  // eg (input:prasad,output, d a s a r p)
 
  /* count the number of ovels consonents in your name*/
+ /*write a funtion which retuns the cube of a number*/
+ 
